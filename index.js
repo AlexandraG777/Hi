@@ -1,1 +1,2 @@
-console.log('Happy developing ✨')
+let number = 10;
+     console.log(number);
